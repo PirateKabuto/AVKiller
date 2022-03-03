@@ -14,3 +14,5 @@ THIS IS A BETA VERSION FOR PROOF OF CONCEPT!!!!!!!
 
 It is difficult to use succesfully. A version that automatically crypts a script from a file, then adds it to a payload with random chars and 
 an AMSI bypass from https://amsi.fail/ is in the works and will exist in the future so please stay posted!!!
+
+Note: This encryption is extremely basic. It does work though. The point is to be as simple as possible so that different types of loops could be used, avoiding the chance for microsoft to create a simple signature or to detect encryption. I will however release a module that uses AES128, for some peoples personal preferences.
