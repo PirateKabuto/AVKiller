@@ -9,3 +9,8 @@ More advanced versions with key registry persistence will exist in the future.
 To use it, run the payload generation script, input the payload and it will generate a payload and save to your clipboard. Paste it in the payload spot in the quotations
 paste the integer key in the key spot
 Generate an AMSI bypass from https://amsi.fail/ and put it in the AMSI payload slot. 
+
+THIS IS A BETA VERSION FOR PROOF OF CONCEPT!!!!!!!
+
+It is difficult to use succesfully. A version that automatically crypts a script from a file, then adds it to a payload with random chars and 
+an AMSI bypass from https://amsi.fail/ is in the works and will exist in the future so please stay posted!!!
